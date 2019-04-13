@@ -1,0 +1,8 @@
+[package]
+name = "rust-tensorflow-face-detection"
+version = "0.1.0"
+authors = ["Mohamed Meftah <mohamed-ted@live.com>"]
+edition = "2018"
+
+[dependencies]
+tensorflow = "0.13.0"

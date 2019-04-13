@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 tensorflow = "0.13.0"
+structopt = "0.2"
